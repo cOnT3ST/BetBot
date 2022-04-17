@@ -20,7 +20,7 @@ log_file = os.path.join('Logs', f'{os.path.basename(__file__)}.log')
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 log_formatter = logging.Formatter(fmt='%(levelname)s: %(asctime)s: %(funcName)s: %(message)s',
-								  datefmt='%d/%m/%Y %H:%M:%S %p'
+								  datefmt='%d.%m.%Y %H:%M:%S %p'
 								  )
 log_file_handler = logging.FileHandler(log_file)
 logger.addHandler(log_file_handler)
@@ -109,12 +109,16 @@ class StatAPIHandler:
 				translated_away_name = StatAPIHandler.translate_team_name(match['awayName'])
 				match['homeName'], match['awayName'] = translated_home_name, translated_away_name
 
-				#TODO format data to D:M:Y H:M:S
-
 				# adding match score which is not included visibly in response data
 				home_score = match["team_home_90min_goals"] + match["team_home_ET_goals"]
 				away_score = match["team_away_90min_goals"] + match["team_away_ET_goals"]
 				match['score'] = f'{home_score}-{away_score}'
+
+				# formatting date
+				date_time_str = match['date']
+				date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d %H:%M:%S')
+				formatted_time = date_time_obj.strftime('%d.%m.%Y %H:%M:%S')
+				match['date'] = formatted_time
 
 			if querystring['page'] == '1':
 				util.insure_dir_exists(os.path.join('Database', 'Calendars'))
@@ -158,10 +162,11 @@ class StatAPIHandler:
 
 		r = r.json()['data'][0]
 
-		date_time_str = r['date']
-		date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d %H:%M:%S')
-		formatted_time = date_time_obj.strftime('%d.%m.%Y %H:%M:%S')
-		r['date'] = formatted_time
+		# date_time_str = r['date']
+		# date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d %H:%M:%S')
+		# formatted_time = date_time_obj.strftime('%d.%m.%Y %H:%M:%S')
+		# r['date'] = formatted_time
+		r['date'] = StatAPIHandler.format_time(r['date'])
 
 		translated_home_name = StatAPIHandler.translate_team_name(r['homeName'])
 		translated_away_name = StatAPIHandler.translate_team_name(r['awayName'])
@@ -177,6 +182,11 @@ class StatAPIHandler:
 	def translate_team_name(eng_name):
 		return TEAMNAME_TRANSLATION[eng_name] if eng_name in TEAMNAME_TRANSLATION else eng_name
 
+	@staticmethod
+	def format_time(time_str):
+		date_time_obj = datetime.datetime.strptime(time_str, '%Y-%m-%d %H:%M:%S')
+		formatted_time = date_time_obj.strftime('%d.%m.%Y %H:%M:%S')
+		return formatted_time
 
 # for debug purposes
 #sah = StatAPIHandler()

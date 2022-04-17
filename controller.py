@@ -12,7 +12,7 @@ log_file = os.path.join('Logs', f'{os.path.basename(__file__)}.log')
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 log_formatter = logging.Formatter(fmt='%(levelname)s: %(asctime)s: %(funcName)s: %(message)s',
-								  datefmt='%d/%m/%Y %H:%M:%S %p'
+								  datefmt='%d.%m.%Y %H:%M:%S %p'
 								  )
 log_file_handler = logging.FileHandler(log_file)
 logger.addHandler(log_file_handler)
@@ -47,6 +47,7 @@ class Controller:
 		with open(Controller.seasons_db_path, 'r', encoding='utf-8') as file:
 			self.seasons = json.load(file)
 			self.season = self.seasons[-1]
+			self.db.read_calendar(self.season['season_id'])
 		logger.info('Seasons file read succesfully')
 
 	def create_new_season(self, season_id):
@@ -65,6 +66,7 @@ class Controller:
 		self.season['calendar'] = self.db.calendar_name
 		#self.season['db'] = self.db.content
 		self.seasons.append(self.season)
+		logger.info(f'Season id {season_id} successfully created')
 
 	def get_match_data(self, match_id: int) -> Union[dict, None]:
 		'''Makes sah download data by given match id'''
@@ -95,7 +97,5 @@ class Controller:
 		logger.info(f'Data on match {match_id} downloaded')
 
 c = Controller()
-c.create_new_season(4208)
-#res = c.get_match_data(207048)
-c.update_match_data(207048)
-
+#c.backup_seasons_db()
+c.read_seasons_db()
