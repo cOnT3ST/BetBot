@@ -3,13 +3,15 @@ URL: https://rapidapi.com/mararrdeveloper/api/elenasport-io1/.'''
 
 import requests
 from urllib.parse import urljoin
-from config import STAT_API_URL, STAT_API_KEY, TEAMNAME_TRANSLATION, TOURNAMENT_NAME, COUNTRY_NAME
+from config import STAT_API_URL, STAT_API_KEY, TEAMNAME_TRANSLATION, TOURNAMENT_NAME, COUNTRY_NAME, \
+	ALLOWED_REQUEST_INTERVAL
 import json
 import os
 import logging
 from typing import Union
 import util
 import datetime
+import time
 
 HEADERS = {'x-rapidapi-key': STAT_API_KEY,
 		   'x-rapidapi-host': "elenasport-io1.p.rapidapi.com"
@@ -81,9 +83,7 @@ class StatAPIHandler:
 
 	def get_season_calendar(self, season_id):
 		'''Downloads all the info on a season by given season_id and dumps all the data into a calendar_filename txt
-		file to be used as a database'''
-
-		# based on API's fixturesBySeasonId method
+		file to be used as a database. Based on API's fixturesBySeasonId method'''
 
 		calendar_filename = f'calendar season id_{season_id}.txt'
 		endpoint = '/v2/seasons/:id/fixtures'
@@ -91,7 +91,14 @@ class StatAPIHandler:
 		querystring = {"page": "1"}
 
 		response_has_next_page = True
+		r_time = None #setting request time to None to tell first request from subsequent
 		while response_has_next_page:
+			if r_time: #if this request is not first and we have to check if we satisfy ALLOWED_REQUEST_INTERVAL
+				since_last_r = datetime.datetime.now() - r_time #time since last req
+				if since_last_r < datetime.timedelta(seconds=ALLOWED_REQUEST_INTERVAL): #too early for new req
+					time_too_wait = datetime.timedelta(seconds=ALLOWED_REQUEST_INTERVAL) - since_last_r
+					time.sleep(time_too_wait.total_seconds())
+			r_time = datetime.datetime.now()
 			r = requests.get(url, headers=HEADERS, params=querystring)
 
 			if not r.status_code == requests.codes.ok:
@@ -115,15 +122,10 @@ class StatAPIHandler:
 				match['score'] = f'{home_score}-{away_score}'
 
 				# formatting date
-				date_time_str = match['date']
-				date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d %H:%M:%S')
-				formatted_time = date_time_obj.strftime('%d.%m.%Y %H:%M:%S')
-				match['date'] = formatted_time
+				match['date'] = StatAPIHandler.format_time(match['date'])
 
 			if querystring['page'] == '1':
 				util.insure_dir_exists(os.path.join('Database', 'Calendars'))
-				# if not os.path.isdir(os.path.join(os.getcwd(), 'Calendars')):
-				# 	os.mkdir('Calendars')
 				calendar_path = os.path.join('Database','Calendars', calendar_filename)
 				r['season id'] = season_id # adding season id to dict to tell one calendar from another
 				with open(calendar_path, 'w', encoding='utf-8') as file:
@@ -141,7 +143,7 @@ class StatAPIHandler:
 			else:
 				response_has_next_page = False
 
-			logger.info(f'Calendar {calendar_path} successfully created')
+		logger.info(f'Calendar {calendar_path} successfully created')
 
 	def get_match_data_by_id(self, match_id:int) -> Union[dict, None]:
 		'''Gets info on a match with match_id'''
@@ -161,11 +163,6 @@ class StatAPIHandler:
 			return None
 
 		r = r.json()['data'][0]
-
-		# date_time_str = r['date']
-		# date_time_obj = datetime.datetime.strptime(date_time_str, '%Y-%m-%d %H:%M:%S')
-		# formatted_time = date_time_obj.strftime('%d.%m.%Y %H:%M:%S')
-		# r['date'] = formatted_time
 		r['date'] = StatAPIHandler.format_time(r['date'])
 
 		translated_home_name = StatAPIHandler.translate_team_name(r['homeName'])
@@ -203,6 +200,7 @@ class StatAPIHandler:
 #print(season_id)
 #season_id = 4208
 #sah.get_season_calendar(season_id)
+
 
 # desired_match_id = 206995
 # m = sah.get_match_data_by_id(desired_match_id)
