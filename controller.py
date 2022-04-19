@@ -29,7 +29,6 @@ class Controller:
 		self.sah = StatAPIHandler()
 		self.db = Database()
 		self.bot = bot
-		self.bot.polling(none_stop=True, interval=0)
 		self.seasons = []
 		self.read_seasons_db()
 
@@ -124,7 +123,14 @@ class Controller:
 
 		return nrd
 
+	def notify_admin(self):
+		admin_id = '367396681'
+		self.bot.send_message(admin_id, 'Hey yo')
+
 c = Controller()
+while True:
+	c.bot.polling(none_stop=True, interval=0)
+
 #c.create_new_season(4208)
 # for m in c.db.matches:
 # 	c.sah.get_match_data_by_id(m['id'])

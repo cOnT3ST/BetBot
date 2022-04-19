@@ -780,3 +780,4 @@ ERROR: 18.04.2022 22:29:15 PM: get_match_data: Failed to download data on match 
 ERROR: 18.04.2022 22:29:15 PM: update_match_data: Failed to update match as None was given
 INFO: 18.04.2022 22:32:57 PM: read_seasons_db: Seasons file read succesfully
 INFO: 18.04.2022 22:34:03 PM: read_seasons_db: Seasons file read succesfully
+INFO: 19.04.2022 21:03:33 PM: read_seasons_db: Seasons file read succesfully
