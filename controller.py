@@ -1,3 +1,4 @@
+import datetime
 import logging
 import os
 import json
@@ -6,6 +7,7 @@ from stat_api_handler import StatAPIHandler
 from database import Database
 import util
 from typing import Union
+from bot import bot
 
 util.insure_dir_exists('Logs')
 log_file = os.path.join('Logs', f'{os.path.basename(__file__)}.log')
@@ -26,7 +28,10 @@ class Controller:
 	def __init__(self):
 		self.sah = StatAPIHandler()
 		self.db = Database()
+		self.bot = bot
+		self.bot.polling(none_stop=True, interval=0)
 		self.seasons = []
+		self.read_seasons_db()
 
 	def backup_seasons_db(self):
 		if self.seasons == []:
@@ -64,8 +69,17 @@ class Controller:
 		self.season['season_id'] = season_id
 		self.db.read_calendar(self.season['season_id'])
 		self.season['calendar'] = self.db.calendar_name
+		self.season['max_rounds'] = self.db.count_max_rounds()
+		self.season['current_round'] = 1
+		self.season['start_date'] = self.db.read_season_start_date()
+		self.season['finish_date'] = self.db.read_season_finish_date()
+		self.season['round_dates'] = self.db.read_round_dates()
 		#self.season['db'] = self.db.content
 		self.seasons.append(self.season)
+
+		self.backup_seasons_db()
+		self.read_seasons_db()
+
 		logger.info(f'Season id {season_id} successfully created')
 
 	def get_match_data(self, match_id: int) -> Union[dict, None]:
@@ -88,7 +102,9 @@ class Controller:
 			logger.info(f'Match {match_data["id"]} updated')
 
 	def update_match_data(self, match_id: int):
+		'''Downloads data on a match by given match id and updates it in db'''
 		updated_match_data = self.get_match_data(match_id)
+		#print(f'{match_id}, {type(match_id)}, {True if match_id else False}')
 		if not updated_match_data:
 			logger.error(f'Failed to update match as None was given')
 			return
@@ -96,6 +112,23 @@ class Controller:
 		self.update_match_data_in_db(updated_match_data)
 		logger.info(f'Data on match {match_id} downloaded')
 
+	def get_next_round_data(self, round):
+		nrd =  self.db.read_next_round_data(round)
+
+		# res_lines = [f'{round} тур']
+		# for i, m in enumerate(nrd):
+		# 	res_lines.append(f'{i + 1}. {m["homeName"]} - {m["awayName"]}, {m["date"]}')
+		# res = '\n'.join(res_lines)
+		#
+		# return res
+
+		return nrd
+
 c = Controller()
-#c.backup_seasons_db()
-c.read_seasons_db()
+#c.create_new_season(4208)
+# for m in c.db.matches:
+# 	c.sah.get_match_data_by_id(m['id'])
+
+#c.update_match_data(206853)
+#next_matches = c.get_next_round_data(26)
+#print(next_matches)

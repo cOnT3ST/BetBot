@@ -4,7 +4,7 @@ URL: https://rapidapi.com/mararrdeveloper/api/elenasport-io1/.'''
 import requests
 from urllib.parse import urljoin
 from config import STAT_API_URL, STAT_API_KEY, TEAMNAME_TRANSLATION, TOURNAMENT_NAME, COUNTRY_NAME, \
-	ALLOWED_REQUEST_INTERVAL
+	ALLOWED_REQUEST_INTERVAL, PREFERRED_TIME_FORMAT
 import json
 import os
 import logging
@@ -116,11 +116,6 @@ class StatAPIHandler:
 				translated_away_name = StatAPIHandler.translate_team_name(match['awayName'])
 				match['homeName'], match['awayName'] = translated_home_name, translated_away_name
 
-				# adding match score which is not included visibly in response data
-				home_score = match["team_home_90min_goals"] + match["team_home_ET_goals"]
-				away_score = match["team_away_90min_goals"] + match["team_away_ET_goals"]
-				match['score'] = f'{home_score}-{away_score}'
-
 				# formatting date
 				match['date'] = StatAPIHandler.format_time(match['date'])
 
@@ -146,9 +141,8 @@ class StatAPIHandler:
 		logger.info(f'Calendar {calendar_path} successfully created')
 
 	def get_match_data_by_id(self, match_id:int) -> Union[dict, None]:
-		'''Gets info on a match with match_id'''
+		'''Gets info on a match with match_id. Based on API's fixtureById method'''
 
-		# based on API's fixtureById method
 		if not isinstance(match_id, int):
 			logger.error(f'Match id must be an integer. Arg passed: {match_id}')
 			return None
@@ -169,6 +163,11 @@ class StatAPIHandler:
 		translated_away_name = StatAPIHandler.translate_team_name(r['awayName'])
 		r['homeName'], r['awayName'] = translated_home_name, translated_away_name
 
+		# adding match score which is not included visibly in response data
+		home_score = r["team_home_90min_goals"] + r["team_home_ET_goals"]
+		away_score = r["team_away_90min_goals"] + r["team_away_ET_goals"]
+		r['score'] = f'{home_score}-{away_score}'
+
 		for e in r['events']:
 			translated_team_name = StatAPIHandler.translate_team_name(e['teamName'])
 			e['teamName'] = translated_team_name
@@ -182,7 +181,7 @@ class StatAPIHandler:
 	@staticmethod
 	def format_time(time_str):
 		date_time_obj = datetime.datetime.strptime(time_str, '%Y-%m-%d %H:%M:%S')
-		formatted_time = date_time_obj.strftime('%d.%m.%Y %H:%M:%S')
+		formatted_time = date_time_obj.strftime(PREFERRED_TIME_FORMAT)
 		return formatted_time
 
 # for debug purposes

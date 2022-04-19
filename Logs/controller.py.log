@@ -1,0 +1,782 @@
+INFO: 17/04/2022 12:28:09 PM: create_new_season: Season id 4208 successfully created
+INFO: 17/04/2022 12:28:09 PM: backup_seasons_db: Seasons db file dumped
+INFO: 17.04.2022 12:31:13 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 12:31:48 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 12:31:49 PM: get_match_data: Data on match (id 207045) downloaded
+INFO: 17.04.2022 12:31:49 PM: update_match_data_in_db: Match 207045 updated
+INFO: 17.04.2022 12:31:49 PM: update_match_data: Data on match 207045 downloaded
+INFO: 17.04.2022 12:54:11 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 12:54:23 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 12:55:41 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 12:56:22 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 13:05:27 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 13:06:19 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 13:07:12 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 13:07:14 PM: get_match_data: Data on match (id 207045) downloaded
+INFO: 17.04.2022 13:07:14 PM: update_match_data_in_db: Match 207045 updated
+INFO: 17.04.2022 13:07:14 PM: update_match_data: Data on match 207045 downloaded
+INFO: 17.04.2022 13:17:03 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 13:17:44 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 13:17:58 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 14:02:48 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 14:02:55 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 14:09:34 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 14:09:45 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 14:10:07 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 14:15:51 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 14:17:26 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 14:17:45 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 14:19:23 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 14:19:28 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 14:19:34 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 20:31:57 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 20:31:57 PM: get_match_data: Data on match (id 206853) downloaded
+INFO: 17.04.2022 20:31:57 PM: update_match_data_in_db: Match 206853 updated
+INFO: 17.04.2022 20:31:57 PM: update_match_data: Data on match 206853 downloaded
+INFO: 17.04.2022 20:55:24 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 20:55:24 PM: backup_seasons_db: Seasons db file dumped
+INFO: 17.04.2022 20:55:24 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 20:55:24 PM: create_new_season: Season id 4208 successfully created
+INFO: 17.04.2022 20:56:13 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 21:11:50 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 21:13:42 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 21:13:54 PM: read_seasons_db: Seasons file read succesfully
+ERROR: 17.04.2022 21:50:18 PM: read_seasons_db: No file found to read from
+INFO: 17.04.2022 21:50:18 PM: backup_seasons_db: Seasons db file dumped
+INFO: 17.04.2022 21:50:18 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 21:50:18 PM: create_new_season: Season id 4208 successfully created
+INFO: 17.04.2022 21:50:24 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 21:50:24 PM: backup_seasons_db: Seasons db file dumped
+INFO: 17.04.2022 21:50:24 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 21:50:24 PM: create_new_season: Season id 4208 successfully created
+ERROR: 17.04.2022 21:50:47 PM: read_seasons_db: No file found to read from
+INFO: 17.04.2022 21:50:47 PM: backup_seasons_db: Seasons db file dumped
+INFO: 17.04.2022 21:50:47 PM: read_seasons_db: Seasons file read succesfully
+INFO: 17.04.2022 21:50:47 PM: create_new_season: Season id 4208 successfully created
+INFO: 18.04.2022 21:36:46 PM: read_seasons_db: Seasons file read succesfully
+INFO: 18.04.2022 21:36:51 PM: read_seasons_db: Seasons file read succesfully
+INFO: 18.04.2022 21:37:10 PM: read_seasons_db: Seasons file read succesfully
+INFO: 18.04.2022 21:37:38 PM: read_seasons_db: Seasons file read succesfully
+INFO: 18.04.2022 21:37:50 PM: read_seasons_db: Seasons file read succesfully
+INFO: 18.04.2022 21:37:50 PM: backup_seasons_db: Seasons db file dumped
+INFO: 18.04.2022 21:37:50 PM: read_seasons_db: Seasons file read succesfully
+INFO: 18.04.2022 21:37:50 PM: create_new_season: Season id 4208 successfully created
+ERROR: 18.04.2022 21:58:18 PM: read_seasons_db: No file found to read from
+INFO: 18.04.2022 21:58:18 PM: backup_seasons_db: Seasons db file dumped
+INFO: 18.04.2022 21:58:18 PM: read_seasons_db: Seasons file read succesfully
+INFO: 18.04.2022 21:58:18 PM: create_new_season: Season id 4208 successfully created
+INFO: 18.04.2022 21:59:20 PM: read_seasons_db: Seasons file read succesfully
+INFO: 18.04.2022 22:01:33 PM: read_seasons_db: Seasons file read succesfully
+INFO: 18.04.2022 22:02:40 PM: read_seasons_db: Seasons file read succesfully
+INFO: 18.04.2022 22:06:57 PM: read_seasons_db: Seasons file read succesfully
+INFO: 18.04.2022 22:06:57 PM: get_match_data: Data on match (id 206853) downloaded
+INFO: 18.04.2022 22:06:57 PM: update_match_data_in_db: Match 206853 updated
+INFO: 18.04.2022 22:06:57 PM: update_match_data: Data on match 206853 downloaded
+INFO: 18.04.2022 22:06:58 PM: get_match_data: Data on match (id 206854) downloaded
+INFO: 18.04.2022 22:06:58 PM: update_match_data_in_db: Match 206854 updated
+INFO: 18.04.2022 22:06:58 PM: update_match_data: Data on match 206854 downloaded
+INFO: 18.04.2022 22:06:58 PM: get_match_data: Data on match (id 206855) downloaded
+INFO: 18.04.2022 22:06:58 PM: update_match_data_in_db: Match 206855 updated
+INFO: 18.04.2022 22:06:58 PM: update_match_data: Data on match 206855 downloaded
+INFO: 18.04.2022 22:06:59 PM: get_match_data: Data on match (id 206857) downloaded
+INFO: 18.04.2022 22:06:59 PM: update_match_data_in_db: Match 206857 updated
+INFO: 18.04.2022 22:06:59 PM: update_match_data: Data on match 206857 downloaded
+INFO: 18.04.2022 22:06:59 PM: get_match_data: Data on match (id 206859) downloaded
+INFO: 18.04.2022 22:06:59 PM: update_match_data_in_db: Match 206859 updated
+INFO: 18.04.2022 22:06:59 PM: update_match_data: Data on match 206859 downloaded
+INFO: 18.04.2022 22:06:59 PM: get_match_data: Data on match (id 206852) downloaded
+INFO: 18.04.2022 22:06:59 PM: update_match_data_in_db: Match 206852 updated
+INFO: 18.04.2022 22:06:59 PM: update_match_data: Data on match 206852 downloaded
+INFO: 18.04.2022 22:07:00 PM: get_match_data: Data on match (id 206856) downloaded
+INFO: 18.04.2022 22:07:00 PM: update_match_data_in_db: Match 206856 updated
+INFO: 18.04.2022 22:07:00 PM: update_match_data: Data on match 206856 downloaded
+INFO: 18.04.2022 22:07:00 PM: get_match_data: Data on match (id 206858) downloaded
+INFO: 18.04.2022 22:07:00 PM: update_match_data_in_db: Match 206858 updated
+INFO: 18.04.2022 22:07:00 PM: update_match_data: Data on match 206858 downloaded
+INFO: 18.04.2022 22:07:00 PM: get_match_data: Data on match (id 206866) downloaded
+INFO: 18.04.2022 22:07:00 PM: update_match_data_in_db: Match 206866 updated
+INFO: 18.04.2022 22:07:00 PM: update_match_data: Data on match 206866 downloaded
+INFO: 18.04.2022 22:07:01 PM: get_match_data: Data on match (id 206867) downloaded
+INFO: 18.04.2022 22:07:01 PM: update_match_data_in_db: Match 206867 updated
+INFO: 18.04.2022 22:07:01 PM: update_match_data: Data on match 206867 downloaded
+ERROR: 18.04.2022 22:07:01 PM: get_match_data: Failed to download data on match (id 206860)
+ERROR: 18.04.2022 22:07:01 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:01 PM: get_match_data: Failed to download data on match (id 206862)
+ERROR: 18.04.2022 22:07:01 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:01 PM: get_match_data: Failed to download data on match (id 206863)
+ERROR: 18.04.2022 22:07:01 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:02 PM: get_match_data: Failed to download data on match (id 206864)
+ERROR: 18.04.2022 22:07:02 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:02 PM: get_match_data: Failed to download data on match (id 206865)
+ERROR: 18.04.2022 22:07:02 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:02 PM: get_match_data: Failed to download data on match (id 206861)
+ERROR: 18.04.2022 22:07:02 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:02 PM: get_match_data: Failed to download data on match (id 206873)
+ERROR: 18.04.2022 22:07:02 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:02 PM: get_match_data: Failed to download data on match (id 206869)
+ERROR: 18.04.2022 22:07:02 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:03 PM: get_match_data: Failed to download data on match (id 206882)
+ERROR: 18.04.2022 22:07:03 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:03 PM: get_match_data: Failed to download data on match (id 206872)
+ERROR: 18.04.2022 22:07:03 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:03 PM: get_match_data: Failed to download data on match (id 206868)
+ERROR: 18.04.2022 22:07:03 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:03 PM: get_match_data: Failed to download data on match (id 206871)
+ERROR: 18.04.2022 22:07:03 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:03 PM: get_match_data: Failed to download data on match (id 206876)
+ERROR: 18.04.2022 22:07:03 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:03 PM: get_match_data: Failed to download data on match (id 206870)
+ERROR: 18.04.2022 22:07:03 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:04 PM: get_match_data: Failed to download data on match (id 206874)
+ERROR: 18.04.2022 22:07:04 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:04 PM: get_match_data: Failed to download data on match (id 206875)
+ERROR: 18.04.2022 22:07:04 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:04 PM: get_match_data: Failed to download data on match (id 206878)
+ERROR: 18.04.2022 22:07:04 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:04 PM: get_match_data: Failed to download data on match (id 206883)
+ERROR: 18.04.2022 22:07:04 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:04 PM: get_match_data: Failed to download data on match (id 206877)
+ERROR: 18.04.2022 22:07:04 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:04 PM: get_match_data: Failed to download data on match (id 206879)
+ERROR: 18.04.2022 22:07:04 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:05 PM: get_match_data: Failed to download data on match (id 206881)
+ERROR: 18.04.2022 22:07:05 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:05 PM: get_match_data: Failed to download data on match (id 206880)
+ERROR: 18.04.2022 22:07:05 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:05 PM: get_match_data: Failed to download data on match (id 206885)
+ERROR: 18.04.2022 22:07:05 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:05 PM: get_match_data: Failed to download data on match (id 206891)
+ERROR: 18.04.2022 22:07:05 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:06 PM: get_match_data: Failed to download data on match (id 206884)
+ERROR: 18.04.2022 22:07:06 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:06 PM: get_match_data: Failed to download data on match (id 206886)
+ERROR: 18.04.2022 22:07:06 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:06 PM: get_match_data: Failed to download data on match (id 206889)
+ERROR: 18.04.2022 22:07:06 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:06 PM: get_match_data: Failed to download data on match (id 206887)
+ERROR: 18.04.2022 22:07:06 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:06 PM: get_match_data: Failed to download data on match (id 206888)
+ERROR: 18.04.2022 22:07:06 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:06 PM: get_match_data: Failed to download data on match (id 206890)
+ERROR: 18.04.2022 22:07:06 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:07 PM: get_match_data: Failed to download data on match (id 206892)
+ERROR: 18.04.2022 22:07:07 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:07 PM: get_match_data: Failed to download data on match (id 206895)
+ERROR: 18.04.2022 22:07:07 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:07 PM: get_match_data: Failed to download data on match (id 206896)
+ERROR: 18.04.2022 22:07:07 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:07 PM: get_match_data: Failed to download data on match (id 206899)
+ERROR: 18.04.2022 22:07:07 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:07 PM: get_match_data: Failed to download data on match (id 206897)
+ERROR: 18.04.2022 22:07:07 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:08 PM: get_match_data: Failed to download data on match (id 206898)
+ERROR: 18.04.2022 22:07:08 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:08 PM: get_match_data: Failed to download data on match (id 206893)
+ERROR: 18.04.2022 22:07:08 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:08 PM: get_match_data: Failed to download data on match (id 206894)
+ERROR: 18.04.2022 22:07:08 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:08 PM: get_match_data: Failed to download data on match (id 206905)
+ERROR: 18.04.2022 22:07:08 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:08 PM: get_match_data: Failed to download data on match (id 206902)
+ERROR: 18.04.2022 22:07:08 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:08 PM: get_match_data: Failed to download data on match (id 206909)
+ERROR: 18.04.2022 22:07:08 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:09 PM: get_match_data: Failed to download data on match (id 206906)
+ERROR: 18.04.2022 22:07:09 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:09 PM: get_match_data: Failed to download data on match (id 206903)
+ERROR: 18.04.2022 22:07:09 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:09 PM: get_match_data: Failed to download data on match (id 206904)
+ERROR: 18.04.2022 22:07:09 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:09 PM: get_match_data: Failed to download data on match (id 206901)
+ERROR: 18.04.2022 22:07:09 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:09 PM: get_match_data: Failed to download data on match (id 206900)
+ERROR: 18.04.2022 22:07:09 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:10 PM: get_match_data: Failed to download data on match (id 206914)
+ERROR: 18.04.2022 22:07:10 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:10 PM: get_match_data: Failed to download data on match (id 206913)
+ERROR: 18.04.2022 22:07:10 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:10 PM: get_match_data: Failed to download data on match (id 206907)
+ERROR: 18.04.2022 22:07:10 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:10 PM: get_match_data: Failed to download data on match (id 206915)
+ERROR: 18.04.2022 22:07:10 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:10 PM: get_match_data: Failed to download data on match (id 206912)
+ERROR: 18.04.2022 22:07:10 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:11 PM: get_match_data: Failed to download data on match (id 206908)
+ERROR: 18.04.2022 22:07:11 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:11 PM: get_match_data: Failed to download data on match (id 206911)
+ERROR: 18.04.2022 22:07:11 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:11 PM: get_match_data: Failed to download data on match (id 206910)
+ERROR: 18.04.2022 22:07:11 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:11 PM: get_match_data: Failed to download data on match (id 206930)
+ERROR: 18.04.2022 22:07:11 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:11 PM: get_match_data: Failed to download data on match (id 206920)
+ERROR: 18.04.2022 22:07:11 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:12 PM: get_match_data: Failed to download data on match (id 206916)
+ERROR: 18.04.2022 22:07:12 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:12 PM: get_match_data: Failed to download data on match (id 206921)
+ERROR: 18.04.2022 22:07:12 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:12 PM: get_match_data: Failed to download data on match (id 206927)
+ERROR: 18.04.2022 22:07:12 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:12 PM: get_match_data: Failed to download data on match (id 206918)
+ERROR: 18.04.2022 22:07:12 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:12 PM: get_match_data: Failed to download data on match (id 206917)
+ERROR: 18.04.2022 22:07:12 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:12 PM: get_match_data: Failed to download data on match (id 206919)
+ERROR: 18.04.2022 22:07:12 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:13 PM: get_match_data: Failed to download data on match (id 206928)
+ERROR: 18.04.2022 22:07:13 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:13 PM: get_match_data: Failed to download data on match (id 206923)
+ERROR: 18.04.2022 22:07:13 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:13 PM: get_match_data: Failed to download data on match (id 206929)
+ERROR: 18.04.2022 22:07:13 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:13 PM: get_match_data: Failed to download data on match (id 206931)
+ERROR: 18.04.2022 22:07:13 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:13 PM: get_match_data: Failed to download data on match (id 206924)
+ERROR: 18.04.2022 22:07:13 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:13 PM: get_match_data: Failed to download data on match (id 206922)
+ERROR: 18.04.2022 22:07:13 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:14 PM: get_match_data: Failed to download data on match (id 206925)
+ERROR: 18.04.2022 22:07:14 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:14 PM: get_match_data: Failed to download data on match (id 206926)
+ERROR: 18.04.2022 22:07:14 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:14 PM: get_match_data: Failed to download data on match (id 206932)
+ERROR: 18.04.2022 22:07:14 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:14 PM: get_match_data: Failed to download data on match (id 206933)
+ERROR: 18.04.2022 22:07:14 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:14 PM: get_match_data: Failed to download data on match (id 206938)
+ERROR: 18.04.2022 22:07:14 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:15 PM: get_match_data: Failed to download data on match (id 206939)
+ERROR: 18.04.2022 22:07:15 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:15 PM: get_match_data: Failed to download data on match (id 206936)
+ERROR: 18.04.2022 22:07:15 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:15 PM: get_match_data: Failed to download data on match (id 206934)
+ERROR: 18.04.2022 22:07:15 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:15 PM: get_match_data: Failed to download data on match (id 206935)
+ERROR: 18.04.2022 22:07:15 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:15 PM: get_match_data: Failed to download data on match (id 206937)
+ERROR: 18.04.2022 22:07:15 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:16 PM: get_match_data: Failed to download data on match (id 206946)
+ERROR: 18.04.2022 22:07:16 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:16 PM: get_match_data: Failed to download data on match (id 206944)
+ERROR: 18.04.2022 22:07:16 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:16 PM: get_match_data: Failed to download data on match (id 206943)
+ERROR: 18.04.2022 22:07:16 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:16 PM: get_match_data: Failed to download data on match (id 206949)
+ERROR: 18.04.2022 22:07:16 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:16 PM: get_match_data: Failed to download data on match (id 206940)
+ERROR: 18.04.2022 22:07:16 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:16 PM: get_match_data: Failed to download data on match (id 206941)
+ERROR: 18.04.2022 22:07:16 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:17 PM: get_match_data: Failed to download data on match (id 206942)
+ERROR: 18.04.2022 22:07:17 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:17 PM: get_match_data: Failed to download data on match (id 206945)
+ERROR: 18.04.2022 22:07:17 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:17 PM: get_match_data: Failed to download data on match (id 206948)
+ERROR: 18.04.2022 22:07:17 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:17 PM: get_match_data: Failed to download data on match (id 206953)
+ERROR: 18.04.2022 22:07:17 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:17 PM: get_match_data: Failed to download data on match (id 206954)
+ERROR: 18.04.2022 22:07:17 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:18 PM: get_match_data: Failed to download data on match (id 206947)
+ERROR: 18.04.2022 22:07:18 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:18 PM: get_match_data: Failed to download data on match (id 206960)
+ERROR: 18.04.2022 22:07:18 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:18 PM: get_match_data: Failed to download data on match (id 206950)
+ERROR: 18.04.2022 22:07:18 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:18 PM: get_match_data: Failed to download data on match (id 206952)
+ERROR: 18.04.2022 22:07:18 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:18 PM: get_match_data: Failed to download data on match (id 206951)
+ERROR: 18.04.2022 22:07:18 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:19 PM: get_match_data: Failed to download data on match (id 206957)
+ERROR: 18.04.2022 22:07:19 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:19 PM: get_match_data: Failed to download data on match (id 206959)
+ERROR: 18.04.2022 22:07:19 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:19 PM: get_match_data: Failed to download data on match (id 206964)
+ERROR: 18.04.2022 22:07:19 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:19 PM: get_match_data: Failed to download data on match (id 206955)
+ERROR: 18.04.2022 22:07:19 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:19 PM: get_match_data: Failed to download data on match (id 206958)
+ERROR: 18.04.2022 22:07:19 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:19 PM: get_match_data: Failed to download data on match (id 206956)
+ERROR: 18.04.2022 22:07:19 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:20 PM: get_match_data: Failed to download data on match (id 206961)
+ERROR: 18.04.2022 22:07:20 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:20 PM: get_match_data: Failed to download data on match (id 206963)
+ERROR: 18.04.2022 22:07:20 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:20 PM: get_match_data: Failed to download data on match (id 206962)
+ERROR: 18.04.2022 22:07:20 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:20 PM: get_match_data: Failed to download data on match (id 206971)
+ERROR: 18.04.2022 22:07:20 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:20 PM: get_match_data: Failed to download data on match (id 206968)
+ERROR: 18.04.2022 22:07:20 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:21 PM: get_match_data: Failed to download data on match (id 206965)
+ERROR: 18.04.2022 22:07:21 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:21 PM: get_match_data: Failed to download data on match (id 206966)
+ERROR: 18.04.2022 22:07:21 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:21 PM: get_match_data: Failed to download data on match (id 206967)
+ERROR: 18.04.2022 22:07:21 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:21 PM: get_match_data: Failed to download data on match (id 206969)
+ERROR: 18.04.2022 22:07:21 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:21 PM: get_match_data: Failed to download data on match (id 206970)
+ERROR: 18.04.2022 22:07:21 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:22 PM: get_match_data: Failed to download data on match (id 206977)
+ERROR: 18.04.2022 22:07:22 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:22 PM: get_match_data: Failed to download data on match (id 206978)
+ERROR: 18.04.2022 22:07:22 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:22 PM: get_match_data: Failed to download data on match (id 206974)
+ERROR: 18.04.2022 22:07:22 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:22 PM: get_match_data: Failed to download data on match (id 206973)
+ERROR: 18.04.2022 22:07:22 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:22 PM: get_match_data: Failed to download data on match (id 206975)
+ERROR: 18.04.2022 22:07:22 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:22 PM: get_match_data: Failed to download data on match (id 206979)
+ERROR: 18.04.2022 22:07:22 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:23 PM: get_match_data: Failed to download data on match (id 206976)
+ERROR: 18.04.2022 22:07:23 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:23 PM: get_match_data: Failed to download data on match (id 206972)
+ERROR: 18.04.2022 22:07:23 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:23 PM: get_match_data: Failed to download data on match (id 206980)
+ERROR: 18.04.2022 22:07:23 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:23 PM: get_match_data: Failed to download data on match (id 206987)
+ERROR: 18.04.2022 22:07:23 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:23 PM: get_match_data: Failed to download data on match (id 206986)
+ERROR: 18.04.2022 22:07:23 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:24 PM: get_match_data: Failed to download data on match (id 206984)
+ERROR: 18.04.2022 22:07:24 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:24 PM: get_match_data: Failed to download data on match (id 206983)
+ERROR: 18.04.2022 22:07:24 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:24 PM: get_match_data: Failed to download data on match (id 206982)
+ERROR: 18.04.2022 22:07:24 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:24 PM: get_match_data: Failed to download data on match (id 206985)
+ERROR: 18.04.2022 22:07:24 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:24 PM: get_match_data: Failed to download data on match (id 206981)
+ERROR: 18.04.2022 22:07:24 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:24 PM: get_match_data: Failed to download data on match (id 206991)
+ERROR: 18.04.2022 22:07:24 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:25 PM: get_match_data: Failed to download data on match (id 206990)
+ERROR: 18.04.2022 22:07:25 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:25 PM: get_match_data: Failed to download data on match (id 206995)
+ERROR: 18.04.2022 22:07:25 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:25 PM: get_match_data: Failed to download data on match (id 206993)
+ERROR: 18.04.2022 22:07:25 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:25 PM: get_match_data: Failed to download data on match (id 206988)
+ERROR: 18.04.2022 22:07:25 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:25 PM: get_match_data: Failed to download data on match (id 206992)
+ERROR: 18.04.2022 22:07:25 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:26 PM: get_match_data: Failed to download data on match (id 206994)
+ERROR: 18.04.2022 22:07:26 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:26 PM: get_match_data: Failed to download data on match (id 206989)
+ERROR: 18.04.2022 22:07:26 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:26 PM: get_match_data: Failed to download data on match (id 206996)
+ERROR: 18.04.2022 22:07:26 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:26 PM: get_match_data: Failed to download data on match (id 207000)
+ERROR: 18.04.2022 22:07:26 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:26 PM: get_match_data: Failed to download data on match (id 206998)
+ERROR: 18.04.2022 22:07:26 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:27 PM: get_match_data: Failed to download data on match (id 207001)
+ERROR: 18.04.2022 22:07:27 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:27 PM: get_match_data: Failed to download data on match (id 207003)
+ERROR: 18.04.2022 22:07:27 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:27 PM: get_match_data: Failed to download data on match (id 206999)
+ERROR: 18.04.2022 22:07:27 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:27 PM: get_match_data: Failed to download data on match (id 206997)
+ERROR: 18.04.2022 22:07:27 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:27 PM: get_match_data: Failed to download data on match (id 207002)
+ERROR: 18.04.2022 22:07:27 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:27 PM: get_match_data: Failed to download data on match (id 207011)
+ERROR: 18.04.2022 22:07:27 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:28 PM: get_match_data: Failed to download data on match (id 207006)
+ERROR: 18.04.2022 22:07:28 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:28 PM: get_match_data: Failed to download data on match (id 207010)
+ERROR: 18.04.2022 22:07:28 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:28 PM: get_match_data: Failed to download data on match (id 207005)
+ERROR: 18.04.2022 22:07:28 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:28 PM: get_match_data: Failed to download data on match (id 207008)
+ERROR: 18.04.2022 22:07:28 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:28 PM: get_match_data: Failed to download data on match (id 207004)
+ERROR: 18.04.2022 22:07:28 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:29 PM: get_match_data: Failed to download data on match (id 207009)
+ERROR: 18.04.2022 22:07:29 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:29 PM: get_match_data: Failed to download data on match (id 207007)
+ERROR: 18.04.2022 22:07:29 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:29 PM: get_match_data: Failed to download data on match (id 207015)
+ERROR: 18.04.2022 22:07:29 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:29 PM: get_match_data: Failed to download data on match (id 207018)
+ERROR: 18.04.2022 22:07:29 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:29 PM: get_match_data: Failed to download data on match (id 207013)
+ERROR: 18.04.2022 22:07:29 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:29 PM: get_match_data: Failed to download data on match (id 207017)
+ERROR: 18.04.2022 22:07:29 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:30 PM: get_match_data: Failed to download data on match (id 207016)
+ERROR: 18.04.2022 22:07:30 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:30 PM: get_match_data: Failed to download data on match (id 207012)
+ERROR: 18.04.2022 22:07:30 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:30 PM: get_match_data: Failed to download data on match (id 207019)
+ERROR: 18.04.2022 22:07:30 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:30 PM: get_match_data: Failed to download data on match (id 207014)
+ERROR: 18.04.2022 22:07:30 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:30 PM: get_match_data: Failed to download data on match (id 207025)
+ERROR: 18.04.2022 22:07:30 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:31 PM: get_match_data: Failed to download data on match (id 207023)
+ERROR: 18.04.2022 22:07:31 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:31 PM: get_match_data: Failed to download data on match (id 207024)
+ERROR: 18.04.2022 22:07:31 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:31 PM: get_match_data: Failed to download data on match (id 207020)
+ERROR: 18.04.2022 22:07:31 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:31 PM: get_match_data: Failed to download data on match (id 207021)
+ERROR: 18.04.2022 22:07:31 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:31 PM: get_match_data: Failed to download data on match (id 207026)
+ERROR: 18.04.2022 22:07:31 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:31 PM: get_match_data: Failed to download data on match (id 207022)
+ERROR: 18.04.2022 22:07:31 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:32 PM: get_match_data: Failed to download data on match (id 207027)
+ERROR: 18.04.2022 22:07:32 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:32 PM: get_match_data: Failed to download data on match (id 207033)
+ERROR: 18.04.2022 22:07:32 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:32 PM: get_match_data: Failed to download data on match (id 207028)
+ERROR: 18.04.2022 22:07:32 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:32 PM: get_match_data: Failed to download data on match (id 207035)
+ERROR: 18.04.2022 22:07:32 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:32 PM: get_match_data: Failed to download data on match (id 207030)
+ERROR: 18.04.2022 22:07:32 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:33 PM: get_match_data: Failed to download data on match (id 207031)
+ERROR: 18.04.2022 22:07:33 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:33 PM: get_match_data: Failed to download data on match (id 207034)
+ERROR: 18.04.2022 22:07:33 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:33 PM: get_match_data: Failed to download data on match (id 207029)
+ERROR: 18.04.2022 22:07:33 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:33 PM: get_match_data: Failed to download data on match (id 207032)
+ERROR: 18.04.2022 22:07:33 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:33 PM: get_match_data: Failed to download data on match (id 207041)
+ERROR: 18.04.2022 22:07:33 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:33 PM: get_match_data: Failed to download data on match (id 207043)
+ERROR: 18.04.2022 22:07:33 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:34 PM: get_match_data: Failed to download data on match (id 207042)
+ERROR: 18.04.2022 22:07:34 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:34 PM: get_match_data: Failed to download data on match (id 207036)
+ERROR: 18.04.2022 22:07:34 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:34 PM: get_match_data: Failed to download data on match (id 207040)
+ERROR: 18.04.2022 22:07:34 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:34 PM: get_match_data: Failed to download data on match (id 207039)
+ERROR: 18.04.2022 22:07:34 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:34 PM: get_match_data: Failed to download data on match (id 207037)
+ERROR: 18.04.2022 22:07:34 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:35 PM: get_match_data: Failed to download data on match (id 207038)
+ERROR: 18.04.2022 22:07:35 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:35 PM: get_match_data: Failed to download data on match (id 207048)
+ERROR: 18.04.2022 22:07:35 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:35 PM: get_match_data: Failed to download data on match (id 207045)
+ERROR: 18.04.2022 22:07:35 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:35 PM: get_match_data: Failed to download data on match (id 207046)
+ERROR: 18.04.2022 22:07:35 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:35 PM: get_match_data: Failed to download data on match (id 207047)
+ERROR: 18.04.2022 22:07:35 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:35 PM: get_match_data: Failed to download data on match (id 207051)
+ERROR: 18.04.2022 22:07:35 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:36 PM: get_match_data: Failed to download data on match (id 207044)
+ERROR: 18.04.2022 22:07:36 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:36 PM: get_match_data: Failed to download data on match (id 207049)
+ERROR: 18.04.2022 22:07:36 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:36 PM: get_match_data: Failed to download data on match (id 207050)
+ERROR: 18.04.2022 22:07:36 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:36 PM: get_match_data: Failed to download data on match (id 207058)
+ERROR: 18.04.2022 22:07:36 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:36 PM: get_match_data: Failed to download data on match (id 207059)
+ERROR: 18.04.2022 22:07:36 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:37 PM: get_match_data: Failed to download data on match (id 207053)
+ERROR: 18.04.2022 22:07:37 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:37 PM: get_match_data: Failed to download data on match (id 207056)
+ERROR: 18.04.2022 22:07:37 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:37 PM: get_match_data: Failed to download data on match (id 207057)
+ERROR: 18.04.2022 22:07:37 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:37 PM: get_match_data: Failed to download data on match (id 207055)
+ERROR: 18.04.2022 22:07:37 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:37 PM: get_match_data: Failed to download data on match (id 207054)
+ERROR: 18.04.2022 22:07:37 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:38 PM: get_match_data: Failed to download data on match (id 207052)
+ERROR: 18.04.2022 22:07:38 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:38 PM: get_match_data: Failed to download data on match (id 207060)
+ERROR: 18.04.2022 22:07:38 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:38 PM: get_match_data: Failed to download data on match (id 207061)
+ERROR: 18.04.2022 22:07:38 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:38 PM: get_match_data: Failed to download data on match (id 207062)
+ERROR: 18.04.2022 22:07:38 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:38 PM: get_match_data: Failed to download data on match (id 207063)
+ERROR: 18.04.2022 22:07:38 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:38 PM: get_match_data: Failed to download data on match (id 207064)
+ERROR: 18.04.2022 22:07:38 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:39 PM: get_match_data: Failed to download data on match (id 207065)
+ERROR: 18.04.2022 22:07:39 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:39 PM: get_match_data: Failed to download data on match (id 207066)
+ERROR: 18.04.2022 22:07:39 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:39 PM: get_match_data: Failed to download data on match (id 207067)
+ERROR: 18.04.2022 22:07:39 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:39 PM: get_match_data: Failed to download data on match (id 207068)
+ERROR: 18.04.2022 22:07:39 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:39 PM: get_match_data: Failed to download data on match (id 207069)
+ERROR: 18.04.2022 22:07:39 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:40 PM: get_match_data: Failed to download data on match (id 207070)
+ERROR: 18.04.2022 22:07:40 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:40 PM: get_match_data: Failed to download data on match (id 207071)
+ERROR: 18.04.2022 22:07:40 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:40 PM: get_match_data: Failed to download data on match (id 207072)
+ERROR: 18.04.2022 22:07:40 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:40 PM: get_match_data: Failed to download data on match (id 207073)
+ERROR: 18.04.2022 22:07:40 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:40 PM: get_match_data: Failed to download data on match (id 207074)
+ERROR: 18.04.2022 22:07:40 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:41 PM: get_match_data: Failed to download data on match (id 207075)
+ERROR: 18.04.2022 22:07:41 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:41 PM: get_match_data: Failed to download data on match (id 207076)
+ERROR: 18.04.2022 22:07:41 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:41 PM: get_match_data: Failed to download data on match (id 207077)
+ERROR: 18.04.2022 22:07:41 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:41 PM: get_match_data: Failed to download data on match (id 207078)
+ERROR: 18.04.2022 22:07:41 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:41 PM: get_match_data: Failed to download data on match (id 207079)
+ERROR: 18.04.2022 22:07:41 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:41 PM: get_match_data: Failed to download data on match (id 207080)
+ERROR: 18.04.2022 22:07:41 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:42 PM: get_match_data: Failed to download data on match (id 207081)
+ERROR: 18.04.2022 22:07:42 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:42 PM: get_match_data: Failed to download data on match (id 207082)
+ERROR: 18.04.2022 22:07:42 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:42 PM: get_match_data: Failed to download data on match (id 207083)
+ERROR: 18.04.2022 22:07:42 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:42 PM: get_match_data: Failed to download data on match (id 207084)
+ERROR: 18.04.2022 22:07:42 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:42 PM: get_match_data: Failed to download data on match (id 207085)
+ERROR: 18.04.2022 22:07:42 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:43 PM: get_match_data: Failed to download data on match (id 207086)
+ERROR: 18.04.2022 22:07:43 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:43 PM: get_match_data: Failed to download data on match (id 207087)
+ERROR: 18.04.2022 22:07:43 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:43 PM: get_match_data: Failed to download data on match (id 207088)
+ERROR: 18.04.2022 22:07:43 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:43 PM: get_match_data: Failed to download data on match (id 207089)
+ERROR: 18.04.2022 22:07:43 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:43 PM: get_match_data: Failed to download data on match (id 207090)
+ERROR: 18.04.2022 22:07:43 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:07:43 PM: get_match_data: Failed to download data on match (id 207091)
+ERROR: 18.04.2022 22:07:43 PM: update_match_data: Failed to update match as None was given
+INFO: 18.04.2022 22:08:48 PM: read_seasons_db: Seasons file read succesfully
+INFO: 18.04.2022 22:16:36 PM: read_seasons_db: Seasons file read succesfully
+INFO: 18.04.2022 22:16:38 PM: get_match_data: Data on match (id 206853) downloaded
+INFO: 18.04.2022 22:16:38 PM: update_match_data_in_db: Match 206853 updated
+INFO: 18.04.2022 22:16:38 PM: update_match_data: Data on match 206853 downloaded
+INFO: 18.04.2022 22:16:49 PM: get_match_data: Data on match (id 206854) downloaded
+INFO: 18.04.2022 22:16:49 PM: update_match_data_in_db: Match 206854 updated
+INFO: 18.04.2022 22:16:49 PM: update_match_data: Data on match 206854 downloaded
+INFO: 18.04.2022 22:16:59 PM: get_match_data: Data on match (id 206855) downloaded
+INFO: 18.04.2022 22:16:59 PM: update_match_data_in_db: Match 206855 updated
+INFO: 18.04.2022 22:16:59 PM: update_match_data: Data on match 206855 downloaded
+INFO: 18.04.2022 22:17:09 PM: get_match_data: Data on match (id 206857) downloaded
+INFO: 18.04.2022 22:17:09 PM: update_match_data_in_db: Match 206857 updated
+INFO: 18.04.2022 22:17:09 PM: update_match_data: Data on match 206857 downloaded
+INFO: 18.04.2022 22:17:19 PM: get_match_data: Data on match (id 206859) downloaded
+INFO: 18.04.2022 22:17:19 PM: update_match_data_in_db: Match 206859 updated
+INFO: 18.04.2022 22:17:19 PM: update_match_data: Data on match 206859 downloaded
+INFO: 18.04.2022 22:17:30 PM: get_match_data: Data on match (id 206852) downloaded
+INFO: 18.04.2022 22:17:30 PM: update_match_data_in_db: Match 206852 updated
+INFO: 18.04.2022 22:17:30 PM: update_match_data: Data on match 206852 downloaded
+INFO: 18.04.2022 22:17:40 PM: get_match_data: Data on match (id 206856) downloaded
+INFO: 18.04.2022 22:17:40 PM: update_match_data_in_db: Match 206856 updated
+INFO: 18.04.2022 22:17:40 PM: update_match_data: Data on match 206856 downloaded
+INFO: 18.04.2022 22:17:51 PM: get_match_data: Data on match (id 206858) downloaded
+INFO: 18.04.2022 22:17:51 PM: update_match_data_in_db: Match 206858 updated
+INFO: 18.04.2022 22:17:51 PM: update_match_data: Data on match 206858 downloaded
+INFO: 18.04.2022 22:18:01 PM: get_match_data: Data on match (id 206866) downloaded
+INFO: 18.04.2022 22:18:01 PM: update_match_data_in_db: Match 206866 updated
+INFO: 18.04.2022 22:18:01 PM: update_match_data: Data on match 206866 downloaded
+INFO: 18.04.2022 22:18:11 PM: get_match_data: Data on match (id 206867) downloaded
+INFO: 18.04.2022 22:18:11 PM: update_match_data_in_db: Match 206867 updated
+INFO: 18.04.2022 22:18:11 PM: update_match_data: Data on match 206867 downloaded
+INFO: 18.04.2022 22:18:22 PM: get_match_data: Data on match (id 206860) downloaded
+INFO: 18.04.2022 22:18:22 PM: update_match_data_in_db: Match 206860 updated
+INFO: 18.04.2022 22:18:22 PM: update_match_data: Data on match 206860 downloaded
+INFO: 18.04.2022 22:18:32 PM: get_match_data: Data on match (id 206862) downloaded
+INFO: 18.04.2022 22:18:32 PM: update_match_data_in_db: Match 206862 updated
+INFO: 18.04.2022 22:18:32 PM: update_match_data: Data on match 206862 downloaded
+INFO: 18.04.2022 22:18:42 PM: get_match_data: Data on match (id 206863) downloaded
+INFO: 18.04.2022 22:18:42 PM: update_match_data_in_db: Match 206863 updated
+INFO: 18.04.2022 22:18:42 PM: update_match_data: Data on match 206863 downloaded
+INFO: 18.04.2022 22:18:53 PM: get_match_data: Data on match (id 206864) downloaded
+INFO: 18.04.2022 22:18:53 PM: update_match_data_in_db: Match 206864 updated
+INFO: 18.04.2022 22:18:53 PM: update_match_data: Data on match 206864 downloaded
+INFO: 18.04.2022 22:19:03 PM: get_match_data: Data on match (id 206865) downloaded
+INFO: 18.04.2022 22:19:03 PM: update_match_data_in_db: Match 206865 updated
+INFO: 18.04.2022 22:19:03 PM: update_match_data: Data on match 206865 downloaded
+INFO: 18.04.2022 22:19:13 PM: get_match_data: Data on match (id 206861) downloaded
+INFO: 18.04.2022 22:19:13 PM: update_match_data_in_db: Match 206861 updated
+INFO: 18.04.2022 22:19:13 PM: update_match_data: Data on match 206861 downloaded
+INFO: 18.04.2022 22:19:24 PM: get_match_data: Data on match (id 206873) downloaded
+INFO: 18.04.2022 22:19:24 PM: update_match_data_in_db: Match 206873 updated
+INFO: 18.04.2022 22:19:24 PM: update_match_data: Data on match 206873 downloaded
+INFO: 18.04.2022 22:19:34 PM: get_match_data: Data on match (id 206869) downloaded
+INFO: 18.04.2022 22:19:34 PM: update_match_data_in_db: Match 206869 updated
+INFO: 18.04.2022 22:19:34 PM: update_match_data: Data on match 206869 downloaded
+INFO: 18.04.2022 22:19:44 PM: get_match_data: Data on match (id 206882) downloaded
+INFO: 18.04.2022 22:19:44 PM: update_match_data_in_db: Match 206882 updated
+INFO: 18.04.2022 22:19:44 PM: update_match_data: Data on match 206882 downloaded
+INFO: 18.04.2022 22:19:55 PM: get_match_data: Data on match (id 206872) downloaded
+INFO: 18.04.2022 22:19:55 PM: update_match_data_in_db: Match 206872 updated
+INFO: 18.04.2022 22:19:55 PM: update_match_data: Data on match 206872 downloaded
+INFO: 18.04.2022 22:20:05 PM: get_match_data: Data on match (id 206868) downloaded
+INFO: 18.04.2022 22:20:05 PM: update_match_data_in_db: Match 206868 updated
+INFO: 18.04.2022 22:20:05 PM: update_match_data: Data on match 206868 downloaded
+INFO: 18.04.2022 22:20:15 PM: get_match_data: Data on match (id 206871) downloaded
+INFO: 18.04.2022 22:20:16 PM: update_match_data_in_db: Match 206871 updated
+INFO: 18.04.2022 22:20:16 PM: update_match_data: Data on match 206871 downloaded
+INFO: 18.04.2022 22:20:26 PM: get_match_data: Data on match (id 206876) downloaded
+INFO: 18.04.2022 22:20:26 PM: update_match_data_in_db: Match 206876 updated
+INFO: 18.04.2022 22:20:26 PM: update_match_data: Data on match 206876 downloaded
+INFO: 18.04.2022 22:20:36 PM: get_match_data: Data on match (id 206870) downloaded
+INFO: 18.04.2022 22:20:36 PM: update_match_data_in_db: Match 206870 updated
+INFO: 18.04.2022 22:20:36 PM: update_match_data: Data on match 206870 downloaded
+INFO: 18.04.2022 22:20:46 PM: get_match_data: Data on match (id 206874) downloaded
+INFO: 18.04.2022 22:20:47 PM: update_match_data_in_db: Match 206874 updated
+INFO: 18.04.2022 22:20:47 PM: update_match_data: Data on match 206874 downloaded
+INFO: 18.04.2022 22:20:57 PM: get_match_data: Data on match (id 206875) downloaded
+INFO: 18.04.2022 22:20:57 PM: update_match_data_in_db: Match 206875 updated
+INFO: 18.04.2022 22:20:57 PM: update_match_data: Data on match 206875 downloaded
+INFO: 18.04.2022 22:21:07 PM: get_match_data: Data on match (id 206878) downloaded
+INFO: 18.04.2022 22:21:07 PM: update_match_data_in_db: Match 206878 updated
+INFO: 18.04.2022 22:21:07 PM: update_match_data: Data on match 206878 downloaded
+INFO: 18.04.2022 22:21:18 PM: get_match_data: Data on match (id 206883) downloaded
+INFO: 18.04.2022 22:21:18 PM: update_match_data_in_db: Match 206883 updated
+INFO: 18.04.2022 22:21:18 PM: update_match_data: Data on match 206883 downloaded
+INFO: 18.04.2022 22:21:28 PM: get_match_data: Data on match (id 206877) downloaded
+INFO: 18.04.2022 22:21:28 PM: update_match_data_in_db: Match 206877 updated
+INFO: 18.04.2022 22:21:28 PM: update_match_data: Data on match 206877 downloaded
+INFO: 18.04.2022 22:21:39 PM: get_match_data: Data on match (id 206879) downloaded
+INFO: 18.04.2022 22:21:39 PM: update_match_data_in_db: Match 206879 updated
+INFO: 18.04.2022 22:21:39 PM: update_match_data: Data on match 206879 downloaded
+INFO: 18.04.2022 22:21:49 PM: get_match_data: Data on match (id 206881) downloaded
+INFO: 18.04.2022 22:21:49 PM: update_match_data_in_db: Match 206881 updated
+INFO: 18.04.2022 22:21:49 PM: update_match_data: Data on match 206881 downloaded
+INFO: 18.04.2022 22:21:59 PM: get_match_data: Data on match (id 206880) downloaded
+INFO: 18.04.2022 22:21:59 PM: update_match_data_in_db: Match 206880 updated
+INFO: 18.04.2022 22:21:59 PM: update_match_data: Data on match 206880 downloaded
+INFO: 18.04.2022 22:22:10 PM: get_match_data: Data on match (id 206885) downloaded
+INFO: 18.04.2022 22:22:10 PM: update_match_data_in_db: Match 206885 updated
+INFO: 18.04.2022 22:22:10 PM: update_match_data: Data on match 206885 downloaded
+INFO: 18.04.2022 22:22:20 PM: get_match_data: Data on match (id 206891) downloaded
+INFO: 18.04.2022 22:22:20 PM: update_match_data_in_db: Match 206891 updated
+INFO: 18.04.2022 22:22:20 PM: update_match_data: Data on match 206891 downloaded
+INFO: 18.04.2022 22:22:30 PM: get_match_data: Data on match (id 206884) downloaded
+INFO: 18.04.2022 22:22:30 PM: update_match_data_in_db: Match 206884 updated
+INFO: 18.04.2022 22:22:30 PM: update_match_data: Data on match 206884 downloaded
+INFO: 18.04.2022 22:22:41 PM: get_match_data: Data on match (id 206886) downloaded
+INFO: 18.04.2022 22:22:41 PM: update_match_data_in_db: Match 206886 updated
+INFO: 18.04.2022 22:22:41 PM: update_match_data: Data on match 206886 downloaded
+INFO: 18.04.2022 22:22:51 PM: get_match_data: Data on match (id 206889) downloaded
+INFO: 18.04.2022 22:22:51 PM: update_match_data_in_db: Match 206889 updated
+INFO: 18.04.2022 22:22:51 PM: update_match_data: Data on match 206889 downloaded
+INFO: 18.04.2022 22:23:01 PM: get_match_data: Data on match (id 206887) downloaded
+INFO: 18.04.2022 22:23:01 PM: update_match_data_in_db: Match 206887 updated
+INFO: 18.04.2022 22:23:01 PM: update_match_data: Data on match 206887 downloaded
+INFO: 18.04.2022 22:23:12 PM: get_match_data: Data on match (id 206888) downloaded
+INFO: 18.04.2022 22:23:12 PM: update_match_data_in_db: Match 206888 updated
+INFO: 18.04.2022 22:23:12 PM: update_match_data: Data on match 206888 downloaded
+INFO: 18.04.2022 22:23:22 PM: get_match_data: Data on match (id 206890) downloaded
+INFO: 18.04.2022 22:23:22 PM: update_match_data_in_db: Match 206890 updated
+INFO: 18.04.2022 22:23:22 PM: update_match_data: Data on match 206890 downloaded
+INFO: 18.04.2022 22:23:33 PM: get_match_data: Data on match (id 206892) downloaded
+INFO: 18.04.2022 22:23:33 PM: update_match_data_in_db: Match 206892 updated
+INFO: 18.04.2022 22:23:33 PM: update_match_data: Data on match 206892 downloaded
+INFO: 18.04.2022 22:23:43 PM: get_match_data: Data on match (id 206895) downloaded
+INFO: 18.04.2022 22:23:43 PM: update_match_data_in_db: Match 206895 updated
+INFO: 18.04.2022 22:23:43 PM: update_match_data: Data on match 206895 downloaded
+INFO: 18.04.2022 22:23:53 PM: get_match_data: Data on match (id 206896) downloaded
+INFO: 18.04.2022 22:23:53 PM: update_match_data_in_db: Match 206896 updated
+INFO: 18.04.2022 22:23:53 PM: update_match_data: Data on match 206896 downloaded
+INFO: 18.04.2022 22:24:04 PM: get_match_data: Data on match (id 206899) downloaded
+INFO: 18.04.2022 22:24:04 PM: update_match_data_in_db: Match 206899 updated
+INFO: 18.04.2022 22:24:04 PM: update_match_data: Data on match 206899 downloaded
+INFO: 18.04.2022 22:24:14 PM: get_match_data: Data on match (id 206897) downloaded
+INFO: 18.04.2022 22:24:14 PM: update_match_data_in_db: Match 206897 updated
+INFO: 18.04.2022 22:24:14 PM: update_match_data: Data on match 206897 downloaded
+INFO: 18.04.2022 22:24:24 PM: get_match_data: Data on match (id 206898) downloaded
+INFO: 18.04.2022 22:24:25 PM: update_match_data_in_db: Match 206898 updated
+INFO: 18.04.2022 22:24:25 PM: update_match_data: Data on match 206898 downloaded
+INFO: 18.04.2022 22:24:35 PM: get_match_data: Data on match (id 206893) downloaded
+INFO: 18.04.2022 22:24:35 PM: update_match_data_in_db: Match 206893 updated
+INFO: 18.04.2022 22:24:35 PM: update_match_data: Data on match 206893 downloaded
+INFO: 18.04.2022 22:24:45 PM: get_match_data: Data on match (id 206894) downloaded
+INFO: 18.04.2022 22:24:45 PM: update_match_data_in_db: Match 206894 updated
+INFO: 18.04.2022 22:24:45 PM: update_match_data: Data on match 206894 downloaded
+INFO: 18.04.2022 22:24:56 PM: get_match_data: Data on match (id 206905) downloaded
+INFO: 18.04.2022 22:24:56 PM: update_match_data_in_db: Match 206905 updated
+INFO: 18.04.2022 22:24:56 PM: update_match_data: Data on match 206905 downloaded
+INFO: 18.04.2022 22:25:06 PM: get_match_data: Data on match (id 206902) downloaded
+INFO: 18.04.2022 22:25:06 PM: update_match_data_in_db: Match 206902 updated
+INFO: 18.04.2022 22:25:06 PM: update_match_data: Data on match 206902 downloaded
+INFO: 18.04.2022 22:25:16 PM: get_match_data: Data on match (id 206909) downloaded
+INFO: 18.04.2022 22:25:16 PM: update_match_data_in_db: Match 206909 updated
+INFO: 18.04.2022 22:25:16 PM: update_match_data: Data on match 206909 downloaded
+INFO: 18.04.2022 22:25:27 PM: get_match_data: Data on match (id 206906) downloaded
+INFO: 18.04.2022 22:25:27 PM: update_match_data_in_db: Match 206906 updated
+INFO: 18.04.2022 22:25:27 PM: update_match_data: Data on match 206906 downloaded
+INFO: 18.04.2022 22:25:37 PM: get_match_data: Data on match (id 206903) downloaded
+INFO: 18.04.2022 22:25:37 PM: update_match_data_in_db: Match 206903 updated
+INFO: 18.04.2022 22:25:37 PM: update_match_data: Data on match 206903 downloaded
+INFO: 18.04.2022 22:25:47 PM: get_match_data: Data on match (id 206904) downloaded
+INFO: 18.04.2022 22:25:47 PM: update_match_data_in_db: Match 206904 updated
+INFO: 18.04.2022 22:25:47 PM: update_match_data: Data on match 206904 downloaded
+INFO: 18.04.2022 22:25:58 PM: get_match_data: Data on match (id 206901) downloaded
+INFO: 18.04.2022 22:25:58 PM: update_match_data_in_db: Match 206901 updated
+INFO: 18.04.2022 22:25:58 PM: update_match_data: Data on match 206901 downloaded
+INFO: 18.04.2022 22:26:08 PM: get_match_data: Data on match (id 206900) downloaded
+INFO: 18.04.2022 22:26:08 PM: update_match_data_in_db: Match 206900 updated
+INFO: 18.04.2022 22:26:08 PM: update_match_data: Data on match 206900 downloaded
+INFO: 18.04.2022 22:26:19 PM: get_match_data: Data on match (id 206914) downloaded
+INFO: 18.04.2022 22:26:19 PM: update_match_data_in_db: Match 206914 updated
+INFO: 18.04.2022 22:26:19 PM: update_match_data: Data on match 206914 downloaded
+INFO: 18.04.2022 22:26:29 PM: get_match_data: Data on match (id 206913) downloaded
+INFO: 18.04.2022 22:26:29 PM: update_match_data_in_db: Match 206913 updated
+INFO: 18.04.2022 22:26:29 PM: update_match_data: Data on match 206913 downloaded
+INFO: 18.04.2022 22:26:40 PM: get_match_data: Data on match (id 206907) downloaded
+INFO: 18.04.2022 22:26:40 PM: update_match_data_in_db: Match 206907 updated
+INFO: 18.04.2022 22:26:40 PM: update_match_data: Data on match 206907 downloaded
+INFO: 18.04.2022 22:26:50 PM: get_match_data: Data on match (id 206915) downloaded
+INFO: 18.04.2022 22:26:50 PM: update_match_data_in_db: Match 206915 updated
+INFO: 18.04.2022 22:26:50 PM: update_match_data: Data on match 206915 downloaded
+INFO: 18.04.2022 22:27:01 PM: get_match_data: Data on match (id 206912) downloaded
+INFO: 18.04.2022 22:27:01 PM: update_match_data_in_db: Match 206912 updated
+INFO: 18.04.2022 22:27:01 PM: update_match_data: Data on match 206912 downloaded
+INFO: 18.04.2022 22:27:11 PM: get_match_data: Data on match (id 206908) downloaded
+INFO: 18.04.2022 22:27:11 PM: update_match_data_in_db: Match 206908 updated
+INFO: 18.04.2022 22:27:11 PM: update_match_data: Data on match 206908 downloaded
+INFO: 18.04.2022 22:27:21 PM: get_match_data: Data on match (id 206911) downloaded
+INFO: 18.04.2022 22:27:21 PM: update_match_data_in_db: Match 206911 updated
+INFO: 18.04.2022 22:27:21 PM: update_match_data: Data on match 206911 downloaded
+INFO: 18.04.2022 22:27:32 PM: get_match_data: Data on match (id 206910) downloaded
+INFO: 18.04.2022 22:27:32 PM: update_match_data_in_db: Match 206910 updated
+INFO: 18.04.2022 22:27:32 PM: update_match_data: Data on match 206910 downloaded
+INFO: 18.04.2022 22:27:42 PM: get_match_data: Data on match (id 206930) downloaded
+INFO: 18.04.2022 22:27:42 PM: update_match_data_in_db: Match 206930 updated
+INFO: 18.04.2022 22:27:42 PM: update_match_data: Data on match 206930 downloaded
+INFO: 18.04.2022 22:27:52 PM: get_match_data: Data on match (id 206920) downloaded
+INFO: 18.04.2022 22:27:52 PM: update_match_data_in_db: Match 206920 updated
+INFO: 18.04.2022 22:27:52 PM: update_match_data: Data on match 206920 downloaded
+INFO: 18.04.2022 22:28:03 PM: get_match_data: Data on match (id 206916) downloaded
+INFO: 18.04.2022 22:28:03 PM: update_match_data_in_db: Match 206916 updated
+INFO: 18.04.2022 22:28:03 PM: update_match_data: Data on match 206916 downloaded
+INFO: 18.04.2022 22:28:13 PM: get_match_data: Data on match (id 206921) downloaded
+INFO: 18.04.2022 22:28:13 PM: update_match_data_in_db: Match 206921 updated
+INFO: 18.04.2022 22:28:13 PM: update_match_data: Data on match 206921 downloaded
+INFO: 18.04.2022 22:28:24 PM: get_match_data: Data on match (id 206927) downloaded
+INFO: 18.04.2022 22:28:24 PM: update_match_data_in_db: Match 206927 updated
+INFO: 18.04.2022 22:28:24 PM: update_match_data: Data on match 206927 downloaded
+ERROR: 18.04.2022 22:28:34 PM: get_match_data: Failed to download data on match (id 206918)
+ERROR: 18.04.2022 22:28:34 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:28:44 PM: get_match_data: Failed to download data on match (id 206917)
+ERROR: 18.04.2022 22:28:44 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:28:54 PM: get_match_data: Failed to download data on match (id 206919)
+ERROR: 18.04.2022 22:28:54 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:29:05 PM: get_match_data: Failed to download data on match (id 206928)
+ERROR: 18.04.2022 22:29:05 PM: update_match_data: Failed to update match as None was given
+ERROR: 18.04.2022 22:29:15 PM: get_match_data: Failed to download data on match (id 206923)
+ERROR: 18.04.2022 22:29:15 PM: update_match_data: Failed to update match as None was given
+INFO: 18.04.2022 22:32:57 PM: read_seasons_db: Seasons file read succesfully
+INFO: 18.04.2022 22:34:03 PM: read_seasons_db: Seasons file read succesfully

@@ -16,5 +16,4 @@ def echo_special(message):
 def echo_all(message):
 	bot.reply_to(message, message.text)
 
-
-bot.polling(none_stop=True, interval=0)
+#bot.polling(none_stop=True, interval=0)
