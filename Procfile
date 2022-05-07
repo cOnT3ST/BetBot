@@ -1,1 +1,1 @@
-worker python controller.py
+worker python main.py
